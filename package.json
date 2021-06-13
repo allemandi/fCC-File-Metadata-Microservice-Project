@@ -1,0 +1,26 @@
+{
+  "name": "fCC-File-Metadata-Microservice-Project",
+  "version": "0.0.1",
+  "description": "Project challenge for freeCodeCamp's APIs and Microservices Certification",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.16.4",
+    "multer": "^1.4.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/allemandi/fCC-File-Metadata-Microservice-Project.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "metadata",
+    "upload"
+  ],
+  "license": "MIT"
+}
